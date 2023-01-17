@@ -1,0 +1,4 @@
+# Project exclude paths
+/out/
+.idea
+ejercicios-semana-11.iml
