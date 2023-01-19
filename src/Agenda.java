@@ -27,6 +27,5 @@ public class Agenda {
                 System.out.println("No existen huecos libres en la agenda.");
             }
         }
-
     }
 }

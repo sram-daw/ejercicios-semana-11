@@ -1,7 +1,7 @@
 # Ejercicios semana 11: Programación
 ## Ejercicio 1
 Crea un programa que solicite los datos personales como el nombre,
-apellidos, etc… Comprueba que los valores introducidos son los correctos
+apellidos, etc. Comprueba que los valores introducidos son los correctos
 (valores enteros, cadenas de caracteres, etc. cuando se solicita) mediante
 bloques try catch.
 
